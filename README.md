@@ -48,6 +48,9 @@ Phân tích tiêu thụ: Tạo các báo cáo phân tích tiêu thụ nguyên li
 
 ![image](https://github.com/NguyenBaTrungK215480106067/b-i-thi-HQTCSDL/assets/170510747/11db1fe4-1a6a-4efa-bf66-03ed62114b12)
 
+bảng xuất kho thành công:
+![image](https://github.com/NguyenBaTrungK215480106067/b-i-thi-HQTCSDL/assets/170510747/46ba84bd-2417-42cf-ad98-60cba48eb263)
+
 6. chi tiết đơn hàng xuất kho
 
 ![image](https://github.com/NguyenBaTrungK215480106067/b-i-thi-HQTCSDL/assets/170510747/b3022fc3-d5f8-456e-8df2-76eaa71ba4b7)
@@ -72,6 +75,10 @@ Tạo sơ đồ thực thể liên kết giữa các bảng:
 **nhập dữ liệu đơn hàng nhập kho**
 
 ![image](https://github.com/NguyenBaTrungK215480106067/b-i-thi-HQTCSDL/assets/170510747/ea67fc44-3d05-464f-b51a-ff48743d5145)
+
+nhập kho thành công:
+
+![image](https://github.com/NguyenBaTrungK215480106067/b-i-thi-HQTCSDL/assets/170510747/f14d4b57-b580-423a-b698-0444dc1b6bae)
 
 **nhập dữ liệu đơn hàng xuất kho**
 
