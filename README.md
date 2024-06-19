@@ -1,4 +1,4 @@
-![image](https://github.com/NguyenBaTrungK215480106067/b-i-thi-HQTCSDL/assets/170510747/ca3b0bd8-4080-45c9-95d9-bb4c7a32323e)# CHƯƠNG TRÌNH QUẢN LÝ KHO HÀNG NHÀ HÀNG LẨU NƯỚNG
+# CHƯƠNG TRÌNH QUẢN LÝ KHO HÀNG NHÀ HÀNG LẨU NƯỚNG
 Mô tả bài toán quản lý: Quản lý kho hàng cho một nhà hàng lẩu nướng là một bài toán phức tạp, bao gồm nhiều khía cạnh từ theo dõi hàng tồn kho, đặt hàng, tiếp nhận hàng hóa, kiểm kê, đến quản lý hạn sử dụng của các nguyên liệu. Bài tập sử dụng ngôn ngữ SQl để quản lý lượng kho hàng.
 
 ## Những chức năng xây dựng để quản lý kho hàng lẩu nướng:
@@ -208,6 +208,10 @@ Dưới đây là mã SQL để quản lý nhập hàng, bao gồm việc lập 
 
 ![image](https://github.com/NguyenBaTrungK215480106067/b-i-thi-HQTCSDL/assets/170510747/5cebbb7a-2a0d-49e5-b106-9eebc75ab988)
 
+kết quả của xuất và nhập kho
+
+![image](https://github.com/NguyenBaTrungK215480106067/b-i-thi-HQTCSDL/assets/170510747/0af06bbf-75fe-4262-ab3d-289bdcbec51f)
+
 
 ## Để quản lý tiêu thụ nguyên liệu, chúng ta cần ghi nhận lượng nguyên liệu tiêu thụ hàng ngày và tạo các báo cáo phân tích tiêu thụ nguyên liệu để dự báo nhu cầu. Dưới đây là các bước thực hiện:
 
@@ -236,9 +240,16 @@ Dưới đây là mã SQL để quản lý nhập hàng, bao gồm việc lập 
 **
 ![image](https://github.com/NguyenBaTrungK215480106067/b-i-thi-HQTCSDL/assets/170510747/56d6360a-49a1-4427-8706-02f33953628c)
 
+thêm báo cáo tiêu thụ hàng ngày thành công
+![image](https://github.com/NguyenBaTrungK215480106067/b-i-thi-HQTCSDL/assets/170510747/a7d46b6f-12bf-418b-9b8c-961cb2ec47c9)
+
 
 **Báo cáo tiêu thụ hàng tháng**
 
 ![image](https://github.com/NguyenBaTrungK215480106067/b-i-thi-HQTCSDL/assets/170510747/5408a0de-8e5e-45d9-b1c6-c25a3cb7760d)
+
+kết quả báo cáo tiêu thụ hàng tháng
+
+![image](https://github.com/NguyenBaTrungK215480106067/b-i-thi-HQTCSDL/assets/170510747/748f4f8d-6a7c-40cb-af8b-7b5de5b79ad5)
 
  
