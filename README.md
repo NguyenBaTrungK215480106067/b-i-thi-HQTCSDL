@@ -25,4 +25,39 @@ Phân tích tiêu thụ: Tạo các báo cáo phân tích tiêu thụ nguyên li
 - Cập nhật tồn kho: Tự động cập nhật số lượng tồn kho khi có giao dịch nhập/xuất kho.
 - Kiểm kê tồn kho: Lập kế hoạch và thực hiện kiểm kê định kỳ hoặc đột xuất, ghi nhận kết quả kiểm kê vào hệ thống.
    Như vậy, dựa theo những thông tin mà ta đã thu thập được chúng ta sẽ xây dựng các bảng đáp ứng yêu cầu quản lý kho hàng nhà hàng lẩu nướng.
+  Tạo các bảng như mô tả trong SQL Sever:
+
+1. Bảng sản phẩm
+![image](https://github.com/NguyenBaTrungK215480106067/b-i-thi-HQTCSDL/assets/170510747/002b0e36-ebc9-4b8a-90bf-950f49c13e54)
+
+2. nhà cung cấp
+![image](https://github.com/NguyenBaTrungK215480106067/b-i-thi-HQTCSDL/assets/170510747/bda66f54-fc52-4549-9842-0e2929ce7f22)
+
+3. đơn hàng nhập kho
+![image](https://github.com/NguyenBaTrungK215480106067/b-i-thi-HQTCSDL/assets/170510747/074317dc-e0f9-4d03-b24d-b0fe7b96ec50)
+
+4. chi tiết đơn hàng nhập kho
+![image](https://github.com/NguyenBaTrungK215480106067/b-i-thi-HQTCSDL/assets/170510747/8551b2de-56f9-4933-8fd8-870214bdb78c)
+
+5. đơn hàng xuất kho
+![image](https://github.com/NguyenBaTrungK215480106067/b-i-thi-HQTCSDL/assets/170510747/11db1fe4-1a6a-4efa-bf66-03ed62114b12)
+
+6. chi tiết đơn hàng xuất kho
+![image](https://github.com/NguyenBaTrungK215480106067/b-i-thi-HQTCSDL/assets/170510747/b3022fc3-d5f8-456e-8df2-76eaa71ba4b7)
+
+7. kho hàng
+![image](https://github.com/NguyenBaTrungK215480106067/b-i-thi-HQTCSDL/assets/170510747/58b50146-1ac0-48f2-80da-6608cf72e0db)
+
+Tạo sơ đồ thực thể liên kết giữa các bảng:
+![image](https://github.com/NguyenBaTrungK215480106067/b-i-thi-HQTCSDL/assets/170510747/7aece371-1bb1-4550-baa1-6ad821464bbe)
+
+ 
+
+
+
+
+
+
+
+
   
