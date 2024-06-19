@@ -90,11 +90,15 @@ Tạo sơ đồ thực thể liên kết giữa các bảng:
 
  **Tạo bảng sản phẩm**
 
-![image](https://github.com/NguyenBaTrungK215480106067/b-i-thi-HQTCSDL/assets/170510747/b39db91d-b603-4feb-bdbe-18f9ede3be98)
+![image](https://github.com/NguyenBaTrungK215480106067/b-i-thi-HQTCSDL/assets/170510747/1be389d9-b12a-4a86-872a-c7510140052c)
 
 ** để thêm hàng hóa mới**
 
-![image](https://github.com/NguyenBaTrungK215480106067/b-i-thi-HQTCSDL/assets/170510747/4d1eb41b-bc39-448d-8375-85508c7f6612)
+![image](https://github.com/NguyenBaTrungK215480106067/b-i-thi-HQTCSDL/assets/170510747/1be389d9-b12a-4a86-872a-c7510140052c)
+![image](https://github.com/NguyenBaTrungK215480106067/b-i-thi-HQTCSDL/assets/170510747/69251b11-7461-4843-9d3f-54b8b2d4371b)
+
+
+Thêm thông tin hàng hóa thành công
 
 ** để sửa thông tin hàng hóa**
 
@@ -116,7 +120,7 @@ Tạo sơ đồ thực thể liên kết giữa các bảng:
 ![image](https://github.com/NguyenBaTrungK215480106067/b-i-thi-HQTCSDL/assets/170510747/6e403fa3-e740-4dd4-8747-203660680f8a)
 
 2.  để cập nhật tồn kho khi có giao dịch nhập/xuất kho
-Nhập kho
+**Nhập kho**
 
 ![image](https://github.com/NguyenBaTrungK215480106067/b-i-thi-HQTCSDL/assets/170510747/f432407d-68b3-4fa0-896f-f240312db2b4)
 
