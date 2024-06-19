@@ -1,4 +1,4 @@
-# CHƯƠNG TRÌNH QUẢN LÝ KHO HÀNG NHÀ HÀNG LẨU NƯỚNG
+![image](https://github.com/NguyenBaTrungK215480106067/b-i-thi-HQTCSDL/assets/170510747/ca3b0bd8-4080-45c9-95d9-bb4c7a32323e)# CHƯƠNG TRÌNH QUẢN LÝ KHO HÀNG NHÀ HÀNG LẨU NƯỚNG
 Mô tả bài toán quản lý: Quản lý kho hàng cho một nhà hàng lẩu nướng là một bài toán phức tạp, bao gồm nhiều khía cạnh từ theo dõi hàng tồn kho, đặt hàng, tiếp nhận hàng hóa, kiểm kê, đến quản lý hạn sử dụng của các nguyên liệu. Bài tập sử dụng ngôn ngữ SQl để quản lý lượng kho hàng.
 
 ## Những chức năng xây dựng để quản lý kho hàng lẩu nướng:
@@ -100,29 +100,44 @@ Tạo sơ đồ thực thể liên kết giữa các bảng:
 
 Thêm thông tin hàng hóa thành công
 
+![image](https://github.com/NguyenBaTrungK215480106067/b-i-thi-HQTCSDL/assets/170510747/9dcc5815-9955-43d1-b7ff-c0b339238b76)
+
+
 ** để sửa thông tin hàng hóa**
 
 ![image](https://github.com/NguyenBaTrungK215480106067/b-i-thi-HQTCSDL/assets/170510747/6c7a5476-a751-437d-a62f-9e1c786e94ea)
+
+Sửa thông tin hàng hóa thành thành công
+
+![image](https://github.com/NguyenBaTrungK215480106067/b-i-thi-HQTCSDL/assets/170510747/01dd905f-9dc6-415c-a698-15e9d7605103)
+
 
   **để xóa hàng hóa****
 
 ![image](https://github.com/NguyenBaTrungK215480106067/b-i-thi-HQTCSDL/assets/170510747/3ad3048d-dbd5-4dd5-b390-40119cc02670)
 
+![image](https://github.com/NguyenBaTrungK215480106067/b-i-thi-HQTCSDL/assets/170510747/16b0470e-f699-4600-8a7f-f45e49278915)
+
 **Xóa hàng hóa**
 
 ![image](https://github.com/NguyenBaTrungK215480106067/b-i-thi-HQTCSDL/assets/170510747/123e10a0-0c89-44de-9d87-347c2f00d9a7)
+
+xóa hàng hóa thành công
+
+![image](https://github.com/NguyenBaTrungK215480106067/b-i-thi-HQTCSDL/assets/170510747/6903401b-e61e-427d-b6ce-c92f40b88f5e)
+
 
 
 ## Để quản lý tồn kho, chúng ta cần theo dõi số lượng hiện tại của từng mặt hàng và thiết lập các cảnh báo tồn kho khi hàng hóa gần hết hoặc dư thừa. Dưới đây là cách thực hiện quản lý tồn kho trong hệ thống quản lý kho hàng nhà hàng lẩu nướng bằng SQL.
 
 1. Tạo bảng Tồn kho
 
-![image](https://github.com/NguyenBaTrungK215480106067/b-i-thi-HQTCSDL/assets/170510747/6e403fa3-e740-4dd4-8747-203660680f8a)
+![image](https://github.com/NguyenBaTrungK215480106067/b-i-thi-HQTCSDL/assets/170510747/85d2b324-05c3-477a-b9ce-bfc6fe0ab6b8)
 
 2.  để cập nhật tồn kho khi có giao dịch nhập/xuất kho
 **Nhập kho**
 
-![image](https://github.com/NguyenBaTrungK215480106067/b-i-thi-HQTCSDL/assets/170510747/f432407d-68b3-4fa0-896f-f240312db2b4)
+![image](https://github.com/NguyenBaTrungK215480106067/b-i-thi-HQTCSDL/assets/170510747/870cfdad-a089-4fc9-b119-8e91a127d51b)
 
 
 **Xuất kho**
@@ -134,7 +149,7 @@ Thêm thông tin hàng hóa thành công
 
 Thủ tục kiểm tra tồn kho tối thiểu
 
-![image](https://github.com/NguyenBaTrungK215480106067/b-i-thi-HQTCSDL/assets/170510747/e5077984-776f-4caa-b00f-099ff99ba4d6)
+![image](https://github.com/NguyenBaTrungK215480106067/b-i-thi-HQTCSDL/assets/170510747/80b2e3ad-3be2-492c-a87b-a39ca16cecc0)
 
 **Thủ tục kiểm tra tồn kho tối đa**
 
@@ -147,7 +162,7 @@ Sử dụng các thủ tục lưu trữ
 ![image](https://github.com/NguyenBaTrungK215480106067/b-i-thi-HQTCSDL/assets/170510747/71a119dd-3437-48b8-8b71-cbab56237165)
 
 
-**Kiểm tra tồn kho tối thiểu**
+**Kiểm tra tồn kho tối thiểu**   
 
 ![image](https://github.com/NguyenBaTrungK215480106067/b-i-thi-HQTCSDL/assets/170510747/699efea2-5b00-40b2-920f-4290c580297c)
 
@@ -182,17 +197,16 @@ Dưới đây là mã SQL để quản lý nhập hàng, bao gồm việc lập 
 
 **Lập đơn hàng nhập kho**
 
-![image](https://github.com/NguyenBaTrungK215480106067/b-i-thi-HQTCSDL/assets/170510747/f98c8773-c96b-4151-a4f6-1e84bc429513)
-
+![image](https://github.com/NguyenBaTrungK215480106067/b-i-thi-HQTCSDL/assets/170510747/dee614db-f670-4ec9-a3f4-a3806aa61744)
 
 **Thêm chi tiết cho đơn hàng nhập kho**
 
-![image](https://github.com/NguyenBaTrungK215480106067/b-i-thi-HQTCSDL/assets/170510747/f85d7b3b-68b8-4f31-8aca-c0f0bb0ca2ca)
+![image](https://github.com/NguyenBaTrungK215480106067/b-i-thi-HQTCSDL/assets/170510747/8f4043bc-7b22-4232-bdca-e2edaeb3d500)
 
 
 **Tiếp nhận hàng hóa và cập nhật tồn kho**
 
-![image](https://github.com/NguyenBaTrungK215480106067/b-i-thi-HQTCSDL/assets/170510747/4b8eabab-1003-4b98-bc44-71aa9c2f7000)
+![image](https://github.com/NguyenBaTrungK215480106067/b-i-thi-HQTCSDL/assets/170510747/5cebbb7a-2a0d-49e5-b106-9eebc75ab988)
 
 
 ## Để quản lý tiêu thụ nguyên liệu, chúng ta cần ghi nhận lượng nguyên liệu tiêu thụ hàng ngày và tạo các báo cáo phân tích tiêu thụ nguyên liệu để dự báo nhu cầu. Dưới đây là các bước thực hiện:
